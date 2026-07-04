@@ -1,14 +1,16 @@
-<h1>Olá, eu sou a Nicoly! 👋</h1>
-<h3>Software Engineer</h3>
+<h1>👋 Olá, eu sou a Nicoly Almeida</h1>
+<h3>Senior Software Engineer • GDG Organizer • Speaker • M.Sc. Student</h3>
 
 ---
 
-## 💫 Sobre mim
+## ✨ Sobre mim
 
-- 🧑‍💻 Software Engineer com foco em desenvolvimento **web e mobile**.
-- 🌱 Sempre estudando novas tecnologias e boas práticas de engenharia.
-- 💬 Me chama pra falar sobre **TypeScript, Angular, Java e Kotlin**.
-- ⚡ Curiosidade: meu portfólio é _um leque de tecnologia_. 🎏
+- 🚀 Senior Software Engineer apaixonada por Frontend e IA.
+- 🎤 Palestrante em eventos de tecnologia.
+- 🌎 Organizadora do Google Developer Groups e vice-presidente do Mulher Tech Sim Senhor.
+- 🤖 Pesquisadora em IA aplicada.
+- 💜 Professora de Pós-graduação.
+- 🎯 Apaixonada por criar produtos que unem UX, Engenharia e Inteligência Artificial.
 
 <br/>
 
