@@ -1,5 +1,5 @@
-<h1 align="center">Oi, eu sou a Nicoly! 👋</h1>
-<h3 align="center">Software Engineer</h3>
+<h1>Olá, eu sou a Nicoly! 👋</h1>
+<h3>Software Engineer</h3>
 
 ---
 
